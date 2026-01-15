@@ -74,8 +74,11 @@ jobs:
         # Tell Copilot to generate the weekly menu plan
         echo "Getting weekly menu plan"
         git status  # View the current branch
-        copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-all-tools --prompt "Provide a new menu plan, please" >> $GITHUB_STEP_SUMMARY
-        echo "GENERATED_PLAN=$GITHUB_STEP_SUMMARY" >> "$GITHUB_OUTPUT"
+        GENERATED_PLAN=$(copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-all-tools --prompt "Provide a new menu plan, please")
+        
+        # Save plan for further outputs
+        echo $GENERATED_PLAN >> $GITHUB_STEP_SUMMARY
+        echo "GENERATED_PLAN=$GENERATED_PLAN" >> $GITHUB_OUTPUT
         echo "Menu plan generated successfully. Pushing changes."
         
         # Commit and push changes
