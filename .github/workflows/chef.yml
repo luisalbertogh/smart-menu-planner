@@ -78,7 +78,9 @@ jobs:
         
         # Save plan for further outputs
         echo $GENERATED_PLAN >> $GITHUB_STEP_SUMMARY
-        echo "GENERATED_PLAN='$GENERATED_PLAN'" >> $GITHUB_OUTPUT
+        echo "GENERATED_PLAN<<EOF" >> $GITHUB_OUTPUT
+        echo "$GENERATED_PLAN" >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
         echo "Menu plan generated successfully. Pushing changes."
         
         # Commit and push changes
