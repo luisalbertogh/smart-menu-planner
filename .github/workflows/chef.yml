@@ -60,7 +60,9 @@ jobs:
 
         # Tell Copilot to create a new feature branch
         echo "Creating feature branch"
-        copilot --model=${{ env.COPILOT_MODEL }} --allow-all-tools --prompt "Create a new feature branch with the syntax 'feature/menu-plan-YYYYMMDD-TS' where YYYYMMDD is today's date in year month day format and TS is the current timestamp in milliseconds."
+        DATE=$(date +%Y%m%d)
+        TIMESTAMP=$(date +%s%3N)
+        git checkout -b feature/menu-plan-$DATE-$TIMESTAMP
         echo "New branch successfully created."
 
     # Get weekly menu plan and push changes to new feature branch if succeeded
@@ -73,19 +75,31 @@ jobs:
 
         # Tell Copilot to generate the weekly menu plan
         echo "Getting weekly menu plan"
-        git status  # View the current branch
         GENERATED_PLAN=$(copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-all-tools --prompt "Provide a new menu plan, please")
-        echo "Menu plan generated successfully. Pushing changes."
+        
+        # Save plan or exit if failed
+        if grep -q "This is the menu plan for this week" $GENERATED_PLAN; then
+          echo "Menu plan generated successfully. Pushing changes."
 
-        # Save plan for further outputs
-        echo "$GENERATED_PLAN" >> $GITHUB_STEP_SUMMARY
+          # Save plan for further outputs
+          echo "$GENERATED_PLAN" >> $GITHUB_STEP_SUMMARY
+          
+          # This to avoid issues with multiline outputs
+          echo "GENERATED_PLAN<<EOF" >> $GITHUB_OUTPUT
+          echo "$GENERATED_PLAN" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+        else
+          echo "Failed to generate menu plan. Exiting."
+          exit 1
+        fi
         
-        # This to avoid issues with multiline outputs
-        echo "GENERATED_PLAN<<EOF" >> $GITHUB_OUTPUT
-        echo "$GENERATED_PLAN" >> $GITHUB_OUTPUT
-        echo "EOF" >> $GITHUB_OUTPUT
-        
-        # Commit and push changes
+    # Push changes to remote repository
+    - name: Push changes
+      run: |
+        # Propagate errors and exit in case of failure
+        set -euo pipefail
+
+        echo "Pushing changes to remote repository"
         git add MENU_PLAN_*.md
         git commit -m "Add weekly menu plan"
         git push origin HEAD
