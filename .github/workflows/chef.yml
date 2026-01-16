@@ -78,7 +78,7 @@ jobs:
         GENERATED_PLAN=$(copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-all-tools --prompt "Provide a new menu plan, please")
         
         # Save plan or exit if failed
-        if grep -q "This is the menu plan for this week" $GENERATED_PLAN; then
+        if grep -q "This is the menu plan for this week" "$GENERATED_PLAN"; then
           echo "Menu plan generated successfully. Pushing changes."
 
           # Save plan for further outputs
