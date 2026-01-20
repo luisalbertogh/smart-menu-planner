@@ -99,6 +99,10 @@ jobs:
         # Propagate errors and exit in case of failure
         set -euo pipefail
 
+        ls -la
+        ls -la menu_plans/
+        ls -la recipes/
+
         echo "Pushing changes to remote repository"
         git add menu_plans/MENU_PLAN_*.md
         git commit -m "Add weekly menu plan"
