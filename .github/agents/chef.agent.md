@@ -63,6 +63,11 @@ For each meal included in the menu plan:
 
 # Output
 
-Do not print any other output besides the requested menu plan table in step 1. All other files must be created silently without printing their content.
+At the end of the process, you must have created the following files:
+- `menu_plans/MENU_PLAN_YYYYMMDD.md` with the menu plan table.
+- `recipes/YYYYMMDD/RECIPE_<MAIN_DISH>_<SIDE_DISH>.md` for each meal in the menu plan.
+- `recipes/YYYYMMDD/INGREDIENTS.md` with the aggregated list of ingredients for the week.
+
+Do not print to the console any other output besides the requested menu plan table in step 1. All other files must be created silently without printing their content.
 
 The only exception to this is if you encounter an error or cannot proceed for any reason. In that case, print a clear error message explaining the issue.
