@@ -82,7 +82,7 @@ jobs:
         GENERATED_PLAN=$(cat menu_plans/MENU_PLAN_$DATE.md)
 
         # Save plan or exit if failed
-        if [[ "$GENERATED_PLAN" =~ "This is the menu plan for this week:" ]]; then
+        if [[ "$GENERATED_PLAN" =~ "Weekly Menu Plan" ]]; then
           echo "Menu plan generated successfully. Pushing changes."
 
           # Save plan for further outputs
