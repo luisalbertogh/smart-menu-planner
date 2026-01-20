@@ -38,6 +38,30 @@ When composing the menu plan, the two below constraints must apply:
 
 Write the menu plan as a markdown table with the following columns: Day, Meal, Main Dish, Side Dish into a file named `MENU_PLAN_YYYYMMDD.md`, where `YYYYMMDD` is today's date in year month day format. Include a top-level heading with the title "Weekly Menu Plan". Ensure the markdown formatting is correct in the file (top-level heading, table column alignment, etc). Write the file in the `menu_plans` directory. Create the directory if it does not exist.
 
+## 3. Write the receipes and list of ingredients
+
+For each meal included in the menu plan:
+
+- Create a new markdown file named `RECIPE_<MAIN_DISH>_<SIDE_DISH>.md`, where `<MAIN_DISH>` and `<SIDE_DISH>` are the names of the main and side dishes, replacing spaces with underscores. The file must contain:
+    - A top-level heading with the name of the dish.
+    - A section named `Ingredients` with a bullet list of all the ingredients needed for the recipe.
+    - A section named `Instructions` with a numbered list of the steps to prepare the dish.
+
+  **IMPORTANT**: Each receipe must be calculated for two adults, one man and onw woman. The man has slightly higher portions.
+  
+  Write the file in the `recipes/YYYYMMDD` directory, where `YYYYMMDD` is today's date in year month day format. Create the directories if they do not exist.
+
+- Create a new markdown file named `INGREDIENTS.md` with the full list of ingredients needed for the week, aggregating the quantities needed for each recipe. The file must contain:
+    - A top-level heading named `Weekly Ingredients List`.
+    - A bullet list of all the ingredients needed for the week, with the total quantity needed for each ingredient.
+  
+  Write the file in the `recipes/YYYYMMDD` directory, where `YYYYMMDD` is today's date in year month day format. Create the directories if they do not exist.
+
 # Output
 
 For every step, print a description of the actions to take in advance. When completing each step, confirm that the step has been completed successfully. Otherwise, indicate the error encountered.
+
+At the end of the process, you must have created the following files:
+- `menu_plans/MENU_PLAN_YYYYMMDD.md` with the menu plan table.
+- `recipes/YYYYMMDD/RECIPE_<MAIN_DISH>_<SIDE_DISH>.md` for each meal in the menu plan.
+- `recipes/YYYYMMDD/INGREDIENTS.md` with the aggregated list of ingredients for the week.
