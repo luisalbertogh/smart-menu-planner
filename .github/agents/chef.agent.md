@@ -65,3 +65,7 @@ For each meal included in the menu plan:
 # Output
 
 For every step, print a description of the actions to take in advance. When completing each step, confirm that the step has been completed successfully. Otherwise, indicate the error encountered.
+
+Do not conclude until the following has been completed successfully:
+- The menu plan file has been created successfully in the `menu_plans` directory.
+- All the recipe files have been created successfully in the `recipes/YYYYMMDD` directory.
