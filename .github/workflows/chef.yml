@@ -73,6 +73,9 @@ jobs:
         # Propagate errors and exit in case of failure
         set -euo pipefail
 
+        DATE=$(date +%Y%m%d)
+        mkdir -fp recipes/$DATE
+
         # Tell Copilot to generate the weekly menu plan
         echo "Getting weekly menu plan"
         GENERATED_PLAN=$(copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-all-tools --prompt "Provide a new menu plan, please")
