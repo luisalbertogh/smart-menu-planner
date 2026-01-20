@@ -99,6 +99,9 @@ jobs:
           exit 1
         fi
         
+        # Wait for file system to settle
+        sleep 30s  
+
         ls -la menu_plans/
         ls -la recipes/$DATE/
 
