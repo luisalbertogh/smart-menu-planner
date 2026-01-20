@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "hooks": {
+    "preToolUse": [
+      {
+        "type": "command",
+        "bash": "./scripts/hooks/pretool.sh",
+        "cwd": ".",
+        "timeoutSec": 15
+      }
+    ],
+    "errorOccurred": [
+      {
+        "type": "command",
+        "bash": "./scripts/hooks/errors.sh",
+        "cwd": ".",
+        "timeoutSec": 60
+      }
+    ]
+  }
+}

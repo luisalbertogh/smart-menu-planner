@@ -81,19 +81,19 @@ jobs:
         copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-all-tools --prompt "Create a directory named 'foo'. Use the 'mkdir' shell command or any other command available to create the directory."
         ls -l
         
-        copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-tool 'write' --prompt "Provide a new menu plan, please"
-        GENERATED_PLAN=$(cat menu_plans/MENU_PLAN_$DATE.md)
+        # copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-tool 'write' --prompt "Provide a new menu plan, please"
+        # GENERATED_PLAN=$(cat menu_plans/MENU_PLAN_$DATE.md)
 
-        # Save plan or exit if failed
-        if [[ "$GENERATED_PLAN" =~ "Weekly Menu Plan" ]]; then
-          echo "Menu plan generated successfully. Pushing changes."
+        # # Save plan or exit if failed
+        # if [[ "$GENERATED_PLAN" =~ "Weekly Menu Plan" ]]; then
+        #   echo "Menu plan generated successfully. Pushing changes."
 
-          # Save plan for further outputs
-          echo "$GENERATED_PLAN" >> $GITHUB_STEP_SUMMARY
-        else
-          echo "Failed to generate menu plan. Exiting."
-          exit 1
-        fi
+        #   # Save plan for further outputs
+        #   echo "$GENERATED_PLAN" >> $GITHUB_STEP_SUMMARY
+        # else
+        #   echo "Failed to generate menu plan. Exiting."
+        #   exit 1
+        # fi
         
     # # Push changes to remote repository
     # - name: Push changes
