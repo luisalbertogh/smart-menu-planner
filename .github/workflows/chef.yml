@@ -103,7 +103,11 @@ jobs:
         set -euo pipefail
 
         echo "Pushing changes to remote repository"
+        
         ls -l
+        ls -l recipes/$(date +%Y%m%d)/
+        ls -l menu_plans/
+
         git add .
         git commit -m "Add weekly menu plan"
         git push origin HEAD
