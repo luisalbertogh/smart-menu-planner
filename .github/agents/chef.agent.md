@@ -64,6 +64,4 @@ Write the menu plan as a markdown table with the following columns: Day, Meal, M
 The output of the prompt must contain the following:
 
 - Start with the sentence `This is the menu plan for this week:`.
-- Print a markdown table with the following columns: Day, Meal, Main Dish, Side Dish. Each row must correspond to a meal for a specific day. The table must have a header row.
-
-**IMPORTANT**: Do not include any other text, instructions, or information in the output. Print the markdown table with the menu plan only once.
+- Print a markdown table with the following columns: Day, Meal, Main Dish, Side Dish. Each row must correspond to a meal for a specific day. The table must have a header row. Print it only once.
