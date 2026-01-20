@@ -78,7 +78,7 @@ jobs:
         
         # Tell Copilot to generate the weekly menu plan
         echo "Getting weekly menu plan"
-        copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-tool 'write' --prompt "Create the directory named foo if it does not exist. Then create a file named bar.txt inside the new directory foo."
+        copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-tool 'write' --allow-tool 'shell(mkdir)' --prompt "Create a directory named 'foo' if it does not exist. Then create a file named 'bar.txt' inside the new directory 'foo'. Use the 'mkdir' shell command to create the directory if needed."
         ls -l
         ls -l foo
         
