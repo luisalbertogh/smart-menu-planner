@@ -78,6 +78,7 @@ jobs:
         
         # Tell Copilot to generate the weekly menu plan
         echo "Getting weekly menu plan"
+        copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-tool 'write' --prompt "Create a file in foo/bar.txt. Create the directory if it does not exist."
         copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-tool 'write' --prompt "Provide a new menu plan, please"
         GENERATED_PLAN=$(cat menu_plans/MENU_PLAN_$DATE.md)
 
@@ -92,27 +93,27 @@ jobs:
           exit 1
         fi
         
-    # Push changes to remote repository
-    - name: Push changes
-      run: |
-        # Propagate errors and exit in case of failure
-        set -euo pipefail
+    # # Push changes to remote repository
+    # - name: Push changes
+    #   run: |
+    #     # Propagate errors and exit in case of failure
+    #     set -euo pipefail
 
-        echo "Pushing changes to remote repository"
-        git add .
-        git commit -m "Add weekly menu plan"
-        git push origin HEAD
+    #     echo "Pushing changes to remote repository"
+    #     git add .
+    #     git commit -m "Add weekly menu plan"
+    #     git push origin HEAD
 
-    # Create Pull Request
-    - name: Create Pull Request
-      shell: bash
-      run: |
-        # Propagate errors and exit in case of failure
-        set -euo pipefail
+    # # Create Pull Request
+    # - name: Create Pull Request
+    #   shell: bash
+    #   run: |
+    #     # Propagate errors and exit in case of failure
+    #     set -euo pipefail
 
-        # Today's date
-        DATE=$(date +%Y%m%d)
+    #     # Today's date
+    #     DATE=$(date +%Y%m%d)
 
-        # Create a Pull Request using GH CLI
-        echo "Creating Pull Request"
-        gh pr create --base main --title "Weekly Menu Plan" --body-file menu_plans/MENU_PLAN_$DATE.md
+    #     # Create a Pull Request using GH CLI
+    #     echo "Creating Pull Request"
+    #     gh pr create --base main --title "Weekly Menu Plan" --body-file menu_plans/MENU_PLAN_$DATE.md
