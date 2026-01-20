@@ -78,7 +78,7 @@ jobs:
         
         # Tell Copilot to generate the weekly menu plan
         echo "Getting weekly menu plan"
-        copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-all-tools --allow-all-paths --prompt "Provide a new menu plan, please"
+        copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-tool 'write' --prompt "Provide a new menu plan, please"
         GENERATED_PLAN=$(cat menu_plans/MENU_PLAN_$DATE.md)
 
         # Save plan or exit if failed
