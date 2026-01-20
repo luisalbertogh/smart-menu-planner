@@ -38,7 +38,7 @@ When composing the menu plan, the two below constraints must apply:
 
 Write the menu plan as a markdown table with the following columns: Day, Meal, Main Dish, Side Dish into a file named `MENU_PLAN_YYYYMMDD.md`, where `YYYYMMDD` is today's date in year month day format. Include a top-level heading with the title "Weekly Menu Plan". Ensure the markdown formatting is correct in the file (top-level heading, table column alignment, etc). Write the file in the `menu_plans` directory. Create the directory if it does not exist.
 
-## 2. Write the receipes and list of ingredients
+## 3. Write the receipes and list of ingredients
 
 For each meal included in the menu plan:
 
