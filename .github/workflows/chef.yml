@@ -99,6 +99,9 @@ jobs:
           exit 1
         fi
         
+        ls -la menu_plans/
+        ls -la recipes/$DATE/
+
     # # Push changes to remote repository
     # - name: Push changes
     #   run: |
