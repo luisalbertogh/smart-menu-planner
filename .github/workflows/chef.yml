@@ -78,7 +78,10 @@ jobs:
         
         # Tell Copilot to generate the weekly menu plan
         echo "Getting weekly menu plan"
-        copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-tool 'write' --prompt "Create a file in foo/bar.txt. Create the directory if it does not exist."
+        copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-tool 'write' --prompt "Create the directory named foo if it does not exist. Then create a file named bar.txt inside the new directory foo."
+        ls -l
+        ls -l foo
+        
         copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-tool 'write' --prompt "Provide a new menu plan, please"
         GENERATED_PLAN=$(cat menu_plans/MENU_PLAN_$DATE.md)
 
