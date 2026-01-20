@@ -73,6 +73,9 @@ jobs:
         # Propagate errors and exit in case of failure
         set -euo pipefail
 
+        # Make hook scripts executable
+        chmod +x scripts/hooks/*.sh
+
         # Today's date
         DATE=$(date +%Y%m%d)
         
@@ -81,6 +84,8 @@ jobs:
         copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-all-tools --prompt "Create a file named 'bar.txt'. Then create a directory named 'foo' and move 'bar.txt' into it."
         ls -l
         
+        ls -l scripts
+
         # copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-tool 'write' --prompt "Provide a new menu plan, please"
         # GENERATED_PLAN=$(cat menu_plans/MENU_PLAN_$DATE.md)
 

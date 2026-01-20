@@ -1,11 +1,17 @@
 {
   "version": 1,
   "hooks": {
+    "sessionStart": [
+      {
+        "type": "command",
+        "bash": "./scripts/hooks/session.sh",
+        "timeoutSec": 15
+      }
+    ],
     "preToolUse": [
       {
         "type": "command",
         "bash": "./scripts/hooks/pretool.sh",
-        "cwd": ".",
         "timeoutSec": 15
       }
     ],
@@ -13,7 +19,6 @@
       {
         "type": "command",
         "bash": "./scripts/hooks/errors.sh",
-        "cwd": ".",
         "timeoutSec": 60
       }
     ]
