@@ -74,7 +74,7 @@ jobs:
         set -euo pipefail
 
         DATE=$(date +%Y%m%d)
-        mkdir -fp recipes/$DATE
+        mkdir -p recipes/$DATE
 
         # Tell Copilot to generate the weekly menu plan
         echo "Getting weekly menu plan"
