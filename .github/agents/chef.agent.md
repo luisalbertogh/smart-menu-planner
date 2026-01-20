@@ -43,6 +43,25 @@ Follow these steps to write the menu plan:
 - Write the menu plan into a file named `MENU_PLAN_YYYYMMDD.md`, where `YYYYMMDD` is today's date in year month day format. The file must be inside the `menu_plans` directory.
 - If the file is not successfully created, state clearly the reason and the error encountered. 
 
+## 3. Write the receipes and list of ingredients
+
+For each meal included in the menu plan:
+
+- Create a new markdown file named `RECIPE_<MAIN_DISH>_<SIDE_DISH>.md`, where `<MAIN_DISH>` and `<SIDE_DISH>` are the names of the main and side dishes, replacing spaces with underscores. The file must contain:
+    - A top-level heading with the name of the dish.
+    - A section named `Ingredients` with a bullet list of all the ingredients needed for the recipe.
+    - A section named `Instructions` with a numbered list of the steps to prepare the dish.
+
+  **IMPORTANT**: Each receipe must be calculated for two adults, one man and onw woman. The man has slightly higher portions.
+  
+  Write the file in the `recipes/YYYYMMDD` directory, where `YYYYMMDD` is today's date in year month day format. Create the directories if they do not exist.
+
+- Create a new markdown file named `INGREDIENTS.md` with the full list of ingredients needed for the week, aggregating the quantities needed for each recipe. The file must contain:
+    - A top-level heading named `Weekly Ingredients List`.
+    - A bullet list of all the ingredients needed for the week, with the total quantity needed for each ingredient.
+  
+  Write the file in the `recipes/YYYYMMDD` directory, where `YYYYMMDD` is today's date in year month day format. Create the directories if they do not exist.
+
 # Output
 
 For every step, print a description of the actions to take in advance. When completing each step, confirm that the step has been completed successfully. Otherwise, indicate the error encountered.

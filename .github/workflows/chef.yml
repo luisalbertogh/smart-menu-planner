@@ -45,11 +45,15 @@ jobs:
       run: npm i -g @github/copilot
 
     # Setup Git config
-    - name: Setup Git config
+    - name: Setup and configs
       run: |
+        # Git setup
         echo "Setting up git config"
         git config --global user.name "${{ github.actor }}"
         git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+
+        # Make hook scripts executable
+        chmod +x scripts/hooks/*.sh
 
     # Create feature branch
     - name: Create feature branch
@@ -73,11 +77,11 @@ jobs:
         # Propagate errors and exit in case of failure
         set -euo pipefail
 
-        # Make hook scripts executable
-        chmod +x scripts/hooks/*.sh
-
         # Today's date
         DATE=$(date +%Y%m%d)
+
+        # Create directories if not existing
+        mkdir -p recipes/$DATE
         
         # Tell Copilot to generate the weekly menu plan
         echo "Getting weekly menu plan"
