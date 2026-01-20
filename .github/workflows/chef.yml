@@ -78,8 +78,9 @@ jobs:
 
         # Tell Copilot to generate the weekly menu plan
         echo "Getting weekly menu plan"
-        GENERATED_PLAN=$(copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-all-tools --allow-all-paths --prompt "Provide a new menu plan, please")
-        
+        copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-all-tools --allow-all-paths --prompt "Provide a new menu plan, please"
+        GENERATED_PLAN=$(cat menu_plans/MENU_PLAN_$DATE.md)
+
         # Save plan or exit if failed
         if [[ "$GENERATED_PLAN" =~ "This is the menu plan for this week:" ]]; then
           echo "Menu plan generated successfully. Pushing changes."
@@ -103,7 +104,7 @@ jobs:
         set -euo pipefail
 
         echo "Pushing changes to remote repository"
-        
+
         ls -l
         ls -l recipes/$(date +%Y%m%d)/
         ls -l menu_plans/
