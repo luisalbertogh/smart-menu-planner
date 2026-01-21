@@ -1,0 +1,56 @@
+# Weekly Ingredients List
+
+- Farro: 80g
+- Zucchini: 2 medium
+- Red bell pepper: 2 small
+- Eggplant: 2 small
+- Red onion: 1 small
+- Olive oil: 13 tbsp
+- Goat cheese: 60g
+- Fresh herbs (thyme, parsley, basil): 4 tbsp
+- Red wine vinegar: 1 tsp
+- Sea bream fillets: 2 (120g each)
+- Lemon: 3
+- Fennel bulb: 1 small
+- Fresh dill: 1 tsp
+- Chicken thigh, boneless: 180g
+- Cooked chickpeas: 100g
+- Onion: 3 small
+- Carrot: 2 small
+- Orange: 2
+- Ras el hanout: 1 tsp
+- Ground cumin: 1/2 tsp
+- Ground coriander: 1/2 tsp
+- Chopped parsley: 2 tbsp
+- Paneer cheese: 120g
+- Spinach: 200g
+- Garlic: 1 clove
+- Ginger: 1 tsp
+- Garam masala: 1 tsp
+- Turmeric: 1/2 tsp
+- Cabbage: 1/2 small
+- Salmon fillet: 180g
+- Soy sauce: 2 tbsp
+- Mirin: 1 tbsp
+- Honey: 1 tsp
+- Sesame oil: 1 tsp
+- Green beans: 120g
+- Sesame seeds: 1 tsp
+- Veal stew meat: 180g
+- Parsnip: 1 small
+- Potato: 1 small
+- Beet: 1 small
+- Vinegar: 2 tbsp
+- Bay leaf: 1
+- Thyme: 1 tsp
+- Ricotta cheese: 80g
+- Arugula: 1 cup
+- Radishes: 3
+- Pasta (dry): 120g
+- Sardines in olive oil: 1 can (90g drained)
+- Yellow bell pepper: 1 small
+- Tomato: 1 small
+- Cucumber: 1/2
+- Tahini: 1 tbsp
+- Lemon juice: 2 tbsp
+- Salt and pepper
