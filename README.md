@@ -1,12 +1,12 @@
-# smart-menu-planner :calendar:
+# :calendar: smart-menu-planner
 
-Menu planner  with Copilot and custom agents.
+Menu planner with Copilot and custom agents :robot:
 
-## Overview
+## :eyes: Overview
 
 Smart Menu Planner is an intelligent menu planning application that leverages advanced AI agents and Copilot integration to help users create, organize, and optimize meal plans. Designed for flexibility and ease of use, it streamlines the process of planning weekly menus, generating shopping lists, and adapting to dietary preferences.
 
-## Features
+## :scroll: Features
 
 - **AI-Powered Menu Planning**: Utilizes AI agents to generate balanced and diverse meal plans based on user preferences and dietary restrictions.
 - **Copilot Integration**: Seamlessly integrates with GitHub Copilot to enhance the planning process with intelligent suggestions and automation.
@@ -15,7 +15,7 @@ Smart Menu Planner is an intelligent menu planning application that leverages ad
 - **Recipe Management**: Stores and organizes recipes for easy access and reference.
 - **Version Control**: Uses GitHub workflows to manage changes and updates to meal plans and recipes.
 
-## Getting started
+## :rocket: Getting started
 
 The planner is intended for usage from a **GitHub workflow**. Nevertheless, the AI agent can be used with Copilot *locally* as well.
 
@@ -31,7 +31,7 @@ To use it locally:
 2. Copy the `.github/agents/chef.agent.md` to your own Copilot or AI agents repository or location for further usage with Copilot or any other compatible AI agent.
 3. Customize the agent as needed to fit your specific requirements.
 
-## GitHub setup
+## :wrench: GitHub setup
 
 To use it as a GitHub workflow, the following must be considered:
 
@@ -41,7 +41,7 @@ To use it as a GitHub workflow, the following must be considered:
   ![Workflow permissions](./pics/workflow_permissions.png)
 - A secret named `COPILOT_GITHUB_TOKEN` must be added to the repository. It will contain the previosuly generated <u>PAT for Copilot</u>. For other operations, like branch creation or PR requests, the existing default GitHub token (`secrets.GITHUB_TOKEN`) for the repository will be used.
 
-## GitHub workflow operations
+## :loop: GitHub workflow operations
 
 If the workflow is used, the following steps are performed. The workflow can be executed, `either manually or scheduled` based on an existing cron expression.
 
