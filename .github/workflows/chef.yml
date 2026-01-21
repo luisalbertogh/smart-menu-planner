@@ -89,7 +89,7 @@ jobs:
         copilot --model=${{ env.COPILOT_MODEL }} --agent=chef --allow-tool 'write' --prompt "Provide a new menu plan, please"
         
         # Wait for file system to settle
-        sleep 30s  
+        sleep 60s  
 
         # Validate plan
         GENERATED_PLAN=$(cat menu_plans/MENU_PLAN_${{ steps.setup.outputs.DATE }}.md)
@@ -108,6 +108,16 @@ jobs:
         # Print created files for debugging
         ls -la menu_plans/
         ls -la recipes/${{ steps.setup.outputs.DATE }}/
+
+    # Upload Copilot logs as artifact
+    - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f3  # v6.0.0
+      # Always upload logs, even if previous steps failed
+      if: always()
+      with:
+        name: copilot-logs
+        path: ./logs/*.log
+        if-no-files-found: ignore
+        retention-days: 7
 
     # Push changes to remote repository
     - name: Push changes
