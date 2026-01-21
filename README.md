@@ -4,16 +4,18 @@ Menu planner with Copilot and custom agents :robot:
 
 ## :eyes: Overview
 
-Smart Menu Planner is an intelligent menu planning application that leverages advanced AI agents and Copilot integration to help users create, organize, and optimize meal plans. Designed for flexibility and ease of use, it streamlines the process of planning weekly menus, generating shopping lists, and adapting to dietary preferences.
+**Smart Menu Planner** is an intelligent menu planning application that leverages advanced AI agents and **Copilot CLI** integration to help users create, organize, and optimize meal plans. Designed for flexibility and ease of use, it streamlines the process of planning weekly menus, generating shopping lists, and adapting to dietary preferences.
 
 ## :scroll: Features
 
 - **AI-Powered Menu Planning**: Utilizes AI agents to generate balanced and diverse meal plans based on user preferences and dietary restrictions.
 - **Copilot Integration**: Seamlessly integrates with GitHub Copilot to enhance the planning process with intelligent suggestions and automation.
+- **Custom agent**: Use a custom agent to especialize the answers and tailor it to the provided specific criteria. See more [here](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-custom-agents). Custom agents are stored in `.github/agents`.
 - **Customizable Dietary Preferences**: Allows users to specify dietary needs, allergies, and ingredient restrictions to tailor meal plans accordingly.
 - **Automated Shopping Lists**: Generates comprehensive shopping lists based on the planned meals, making grocery shopping more efficient.
 - **Recipe Management**: Stores and organizes recipes for easy access and reference.
 - **Version Control**: Uses GitHub workflows to manage changes and updates to meal plans and recipes.
+- **Log generation**: Leverages hooks to record logs on errors and tool usage. See [here](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-hooks) for more details. Hooks are stored in `.github/hooks`.
 
 ## :rocket: Getting started
 
@@ -50,7 +52,8 @@ If the workflow is used, the following steps are performed. The workflow can be 
 3. **Set up Git configurations** for Git operations.
 4. **Create and checkout a local feature branch** where the new menu plan and recipes will be dumped.
 5. **Invoke Copilot**. Use a predefined LLM model and custom Chef agent. Wait for some seconds to complete the generation of a new menu plan and the corresponding recipes and list of ingredients.
-6. **Push the new files** and the new branch.
-7. **Create a new PR** for further approval and merge.
+6. **Attach logs as artifacts**. Attach any generated log from the available hooks as artifacts in the workflow.
+7. **Push the new files** and the new branch.
+8. **Create a new PR** for further approval and merge.
 
 Additionally, **any log file generated during the process is attached as artifacts** to the workflow. The artifacts will expire automatically <u>after 7 days</u>.
