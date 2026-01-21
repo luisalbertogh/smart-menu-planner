@@ -110,7 +110,7 @@ jobs:
         ls -la recipes/${{ steps.setup.outputs.DATE }}/
 
     # Upload Copilot logs as artifact
-    - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f3  # v6.0.0
+    - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f  # v6.0.0
       # Always upload logs, even if previous steps failed
       if: always()
       with:
