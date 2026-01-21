@@ -1,0 +1,64 @@
+# Weekly Ingredients List
+
+- Farro: 120g
+- Zucchini: 2 small
+- Red bell pepper: 4
+- Eggplant: 2 (1 large, 1 small)
+- Red onion: 2 (1 small, 1/4 for salad)
+- Olive oil: ~12 tbsp
+- Goat cheese: 80g
+- Fresh thyme: 1 tbsp
+- Balsamic vinegar: 2 tsp
+- Sea bream fillets: 2 (150g each)
+- Lemon: 2
+- Fennel bulb: 1
+- Green apple: 1
+- Fresh dill: 2 tsp
+- Chicken thigh: 250g
+- Cooked chickpeas: 100g
+- Onion: 2 small
+- Carrot: 4
+- Zucchini: 1 small
+- Tomato: 2
+- Ground cumin: 2 tsp
+- Ground coriander: 2 tsp
+- Cinnamon: 1/2 tsp
+- Chicken broth: 1/2 cup + 500ml
+- Orange: 1
+- Parsley: 1 tbsp
+- Eggplant: 1 large
+- Ricotta cheese: 100g
+- Basil: 1 tbsp
+- Arugula: 80g
+- Walnuts: 20g
+- Rye bread: 2 slices
+- White fish fillets: 250g
+- Leek: 1 small
+- Potato: 1 small
+- Milk: 1/2 cup
+- Butter: 2 tbsp
+- Fresh dill: 1 tbsp
+- Lamb leg: 200g
+- Paprika: 1/2 tsp
+- Greek yogurt: 100g
+- Mint: 1 tbsp
+- Pasta: 120g
+- Garlic: 3 cloves
+- Feta cheese: 40g
+- Cucumber: 1.5
+- Kalamata olives: 6
+- Oregano: 1 tsp
+- Cod fillets: 2 (120g each)
+- Ginger: 1 thumb
+- Soy sauce: 1 tbsp
+- Sesame oil: 1 tsp
+- Rice vinegar: 1 tbsp
+- Bok choy: 2 heads
+- Vegetable oil: 1 tbsp
+- Arborio rice: 120g
+- Veal: 150g
+- Mushrooms: 80g
+- Parmesan cheese: 30g
+- Endive: 1
+- Pear: 1
+- Salt and pepper: to taste
