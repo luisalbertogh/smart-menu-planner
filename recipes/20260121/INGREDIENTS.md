@@ -1,0 +1,63 @@
+# Weekly Ingredients List
+
+- Brown lentils: 120g
+- Basmati rice: 180g
+- Pasta: 180g
+- Sea bass fillets: 2 (150g each)
+- Trout fillets: 2 (150g each)
+- Chicken breast: 250g
+- Beef sirloin: 200g
+- Halloumi cheese: 200g
+- Feta cheese: 100g
+- Mozzarella: 100g
+- Parmesan cheese: 30g
+- Greek yogurt: 100g + 2 tbsp + 100g (for tzatziki and raita)
+- Canned chickpeas: 200g
+- Canned tomatoes: 400g x3
+- Couscous: 120g
+- Potatoes: 2
+- Eggplant: 2
+- Zucchini: 3
+- Carrot: 3
+- Bell pepper: 4
+- Onion: 6
+- Garlic cloves: 12
+- Celery stalk: 1
+- Peas: 1/2 cup
+- Asparagus: 250g
+- Broccoli: 200g
+- Brussels sprouts: 300g
+- Red onion: 1.5
+- Cucumber: 2.5
+- Tomatoes: 8
+- Kalamata olives: 16
+- Lemon: 3
+- Capers: (for caprese, optional)
+- Basil: 8 leaves
+- Mint: 2 tbsp
+- Parsley: 3 tbsp
+- Dill: 3 tbsp
+- Oregano: 1.5 tsp
+- Cinnamon: 2 tsp
+- Cumin: 3.5 tsp
+- Coriander: 1 tsp
+- Paprika: 1 tsp
+- Biryani spice mix: 2 tbsp
+- Oyster sauce: 1 tbsp
+- Soy sauce: 1 tbsp
+- Sesame oil: 1 tbsp
+- Vegetable oil: 4 tbsp
+- Olive oil: 15 tbsp
+- Red wine vinegar: 1 tbsp
+- Rice vinegar: 1 tbsp
+- Sugar: 1 tsp
+- Egg: 1
+- Milk: 100ml
+- Grated cheese: 50g
+- Salt and pepper: to taste
+- Lemon juice: 2 tbsp
+- Sesame seeds: 1 tsp
+- Chopped cilantro: 1 tbsp
+- Chicken broth: 350ml
+- Vegetable broth: 1L
+- Capers: optional
