@@ -127,7 +127,7 @@ jobs:
         set -euo pipefail
 
         echo "Pushing changes to remote repository"
-        git add .
+        git add menu_plans/*.md recipes/${{ steps.setup.outputs.DATE }}/*
         git commit -m "Add weekly menu plan"
         git push origin HEAD
 
