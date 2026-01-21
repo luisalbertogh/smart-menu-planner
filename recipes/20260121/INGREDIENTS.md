@@ -1,0 +1,59 @@
+# Weekly Ingredients List
+
+- Brown lentils: 120g
+- Basmati rice: 180g
+- Penne pasta: 160g
+- Chicken breast: 250g
+- Veal strips: 200g
+- Sea bass fillets: 2 (150g each)
+- Salmon fillets: 2 (150g each)
+- White fish fillets (cod/haddock): 2 (150g each)
+- Canned chickpeas: 2 x 400g
+- Canned chopped tomatoes: 3 x 400g
+- Cherry tomatoes: 200g
+- Tomato: 5
+- Carrot: 4
+- Zucchini: 2
+- Eggplant: 1
+- Bell pepper: 3
+- Broccoli: 1
+- Cauliflower: 1
+- Onion: 7
+- Red onion: 2
+- Garlic cloves: 13
+- Fresh ginger: 2 tsp
+- Fresh dill: 2 tbsp
+- Fresh parsley: 3 tbsp
+- Fresh coriander: 1 tbsp
+- Fresh mint: 1 tbsp
+- Basil leaves: 10
+- Labneh: 120g
+- Feta cheese: 200g
+- Mozzarella: 120g
+- Greek yogurt: 120g
+- Yogurt: 2 tbsp
+- Olive oil: 18 tbsp
+- Sesame oil: 1 tbsp
+- Apple: 1
+- Cucumber: 3
+- Kalamata olives: 88g
+- Lemon: 2
+- Apple cider vinegar: 1 tbsp
+- Red wine vinegar: 1 tbsp
+- Capers: 0 (not used)
+- Za'atar: 1 tsp
+- Biryani spice mix: 2 tbsp
+- Curry powder: 1 tsp
+- Dried oregano: 2 tsp
+- Smoked paprika: 2 tsp
+- Cumin: 3 tsp
+- Coriander: 1 tsp
+- Cinnamon: 1 tsp
+- Honey: 1 tsp
+- Soy sauce: 2 tbsp
+- Fish stock: 400ml
+- Chicken broth: 350ml
+- Vegetable broth: 1L
+- Salt and pepper: to taste
+- Sesame seeds: 1 tsp
+- Lemon juice: 2 tbsp
