@@ -46,6 +46,8 @@ jobs:
 
     # Setup Git config
     - name: Setup and configs
+      id: setup
+      shell: bash
       run: |
         # Git setup
         echo "Setting up git config"
@@ -54,6 +56,9 @@ jobs:
 
         # Make hook scripts executable
         chmod +x scripts/hooks/*.sh
+
+        # Today's date
+        echo "DATE=$(date +%Y%m%d)" >> $GITHUB_OUTPUT
 
     # Create feature branch
     - name: Create feature branch
@@ -64,9 +69,8 @@ jobs:
 
         # Tell Copilot to create a new feature branch
         echo "Creating feature branch"
-        DATE=$(date +%Y%m%d)
         TIMESTAMP=$(date +%s%3N)
-        git checkout -b feature/menu-plan-$DATE-$TIMESTAMP
+        git checkout -b feature/menu-plan-${{ steps.setup.outputs.DATE }}-$TIMESTAMP
         echo "New branch successfully created."
 
     # Get weekly menu plan and push changes to new feature branch if succeeded
@@ -77,11 +81,8 @@ jobs:
         # Propagate errors and exit in case of failure
         set -euo pipefail
 
-        # Today's date
-        DATE=$(date +%Y%m%d)
-
         # Create directories if not existing
-        mkdir -p recipes/$DATE
+        mkdir -p recipes/${{ steps.setup.outputs.DATE }}
         
         # Tell Copilot to generate the weekly menu plan
         echo "Getting weekly menu plan"
@@ -91,7 +92,7 @@ jobs:
         sleep 30s  
 
         # Validate plan
-        GENERATED_PLAN=$(cat menu_plans/MENU_PLAN_$DATE.md)
+        GENERATED_PLAN=$(cat menu_plans/MENU_PLAN_${{ steps.setup.outputs.DATE }}.md)
 
         # Save plan or exit if failed
         if [[ "$GENERATED_PLAN" =~ "Weekly Menu Plan" ]]; then
@@ -104,30 +105,28 @@ jobs:
           exit 1
         fi
 
+        # Print created files for debugging
         ls -la menu_plans/
-        ls -la recipes/$DATE/
+        ls -la recipes/${{ steps.setup.outputs.DATE }}/
 
-    # # Push changes to remote repository
-    # - name: Push changes
-    #   run: |
-    #     # Propagate errors and exit in case of failure
-    #     set -euo pipefail
+    # Push changes to remote repository
+    - name: Push changes
+      run: |
+        # Propagate errors and exit in case of failure
+        set -euo pipefail
 
-    #     echo "Pushing changes to remote repository"
-    #     git add .
-    #     git commit -m "Add weekly menu plan"
-    #     git push origin HEAD
+        echo "Pushing changes to remote repository"
+        git add .
+        git commit -m "Add weekly menu plan"
+        git push origin HEAD
 
-    # # Create Pull Request
-    # - name: Create Pull Request
-    #   shell: bash
-    #   run: |
-    #     # Propagate errors and exit in case of failure
-    #     set -euo pipefail
+    # Create Pull Request
+    - name: Create Pull Request
+      shell: bash
+      run: |
+        # Propagate errors and exit in case of failure
+        set -euo pipefail
 
-    #     # Today's date
-    #     DATE=$(date +%Y%m%d)
-
-    #     # Create a Pull Request using GH CLI
-    #     echo "Creating Pull Request"
-    #     gh pr create --base main --title "Weekly Menu Plan" --body-file menu_plans/MENU_PLAN_$DATE.md
+        # Create a Pull Request using GH CLI
+        echo "Creating Pull Request"
+        gh pr create --base main --title "Weekly Menu Plan" --body-file menu_plans/MENU_PLAN_${{ steps.setup.outputs.DATE }}.md
