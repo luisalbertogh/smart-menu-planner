@@ -1,6 +1,6 @@
-# smart-menu-planner
+# smart-menu-planner :calendar:
 
-Menu planner with Copilot and custom agents.
+Menu planner  with Copilot and custom agents.
 
 ## Overview
 
