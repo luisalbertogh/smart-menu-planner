@@ -44,6 +44,16 @@ jobs:
     - name: Install GitHub Copilot CLI
       run: npm i -g @github/copilot
 
+    # Clean up old menu plans and recipes (older than 14 days)
+    - name: Clean up old menu plans and recipes
+      shell: bash
+      run: |
+        # Propagate errors and exit in case of failure
+        set -euo pipefail
+
+        echo "Cleaning up old menu plans and recipes"
+        sh ./scripts/cleanup.sh
+
     # Setup Git config
     - name: Setup and configs
       id: setup
