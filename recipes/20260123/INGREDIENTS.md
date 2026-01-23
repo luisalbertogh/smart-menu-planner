@@ -1,0 +1,68 @@
+# Weekly Ingredients List
+
+- Chickpeas (dried/canned): 200g dried or 400g canned
+- Fresh spinach: 200g + 250g
+- Onion: 1 + 1/2 + 1 + 1/2 + 1/2 + 1/2 + 1/2 = 5
+- Garlic cloves: 2 + 1 + 1 + 1 + 1 + 1 = 7
+- Carrot: 1 + 1 + 1 + 1 small
+- Celery stalk: 1 + 1 + 1 small
+- Smoked paprika: 1 tsp
+- Bay leaf: 1 + 1
+- Olive oil: 2 tbsp + 1 tbsp + 1 tbsp + 1 tbsp + 1 tbsp + 1 tbsp + 1 tbsp + 1 tbsp + 1 tbsp + 1 tbsp = 10 tbsp
+- Vegetable broth: 500ml + 400ml
+- Salt & pepper
+- Manchego cheese: 80g
+- Salmon fillets: 2 (180g each)
+- Lemon: 1 + 1/2
+- Black peppercorns: 1 tsp
+- Fennel bulb: 1 small
+- Orange: 1
+- Fresh dill: 1 tbsp
+- Cod fillets: 2 (150g each)
+- Ginger: 1 thumb + 1 thumb
+- Spring onions: 2 + 2
+- Soy sauce: 1 tbsp
+- Sesame oil: 1 tsp
+- Bok choy: 1 head
+- Vegetable oil: 1 tbsp
+- Bell peppers: 2 large + 1/2 red
+- Ground veal: 120g
+- Rice: 80g
+- Tomato: 1 + 1 + 1 medium + 1 medium
+- Parsley: 1 tbsp + 1 bunch
+- Greek yogurt: 150g
+- Mint: 1 tbsp
+- Dill: 1 tbsp + 1 tbsp
+- Zucchini: 1 small
+- Raisins: 1 tbsp
+- Cumin: 1/2 tsp + 1/2 tsp
+- Coriander: 1/2 tsp + 1/2 tsp
+- Turmeric: 1/2 tsp + 1/2 tsp
+- Cinnamon: 1/2 tsp
+- Labneh: 200g
+- Extra virgin olive oil: 1 tbsp
+- Chicken breast: 250g
+- Yogurt: 1 tbsp
+- Lemon juice: 1 tbsp + 1 tbsp
+- Paprika: 1 tsp
+- Bulgur wheat: 40g
+- Tomato: 1 medium + 1
+- Cucumber: 1/2
+- Cannellini beans: 200g canned
+- Small pasta: 80g
+- Parmesan cheese: 20g
+- Arugula: 40g
+- Balsamic vinegar: 1 tbsp
+- Paneer: 200g
+- Spinach: 250g
+- Green chili: 1 (optional)
+- Garam masala: 1/2 tsp
+- Oil: 1 tbsp
+- Haddock fillet: 250g
+- Potato: 1 small
+- Egg: 1
+- Flour: 1 tbsp
+- Lemon zest: 1/2 lemon
+- Cooked beetroots: 2 small
+- Vinegar: 1 tbsp
+- Sugar: 1 tsp
