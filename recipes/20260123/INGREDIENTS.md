@@ -1,0 +1,65 @@
+# Weekly Ingredients List
+
+- Chickpeas (dried or canned): 200g dried or 400g canned
+- Fresh spinach: 200g
+- Onion: 4
+- Garlic cloves: 9
+- Carrot: 6
+- Celery stalk: 1
+- Smoked paprika: 2 tsp
+- Vegetable broth: 800ml
+- Olive oil: 20 tbsp
+- Salt and pepper: to taste
+- Manchego cheese: 100g
+- Whole grain crackers: 6-8
+- Cod fillets: 2 (150g each)
+- Lemon: 3
+- Fennel bulb: 1
+- Beetroots: 2
+- Red wine vinegar: 1 tbsp
+- Parsley: 5 tbsp
+- Salmon fillet: 250g
+- Potatoes: 2
+- Parsnip: 1
+- Small leek: 1
+- Light cream: 250ml
+- Dill: 1 tbsp
+- Grated cheese: 2 tbsp
+- Rye crispbreads: 2
+- Semi-hard cheese (Havarti): 40g
+- Chicken breasts: 2 (300g total)
+- Yogurt: 200g
+- Tomato: 4
+- Cucumber: 2
+- Red onion: 1
+- Bell pepper: 2
+- Pita bread: 1/2
+- Sumac: 1 tbsp
+- Romaine lettuce: 1
+- Chopped parsley: 4 tbsp
+- Green bell pepper: 1/2
+- Zucchini: 1/2
+- Eggplant: 1/2
+- Paella rice: 150g
+- Saffron: 1/4 tsp
+- Red bell peppers: 3
+- Sherry vinegar: 1 tsp
+- Hake fillets: 2 (120g each)
+- Light cream: 50ml
+- Green beans: 200g
+- Red lentils: 120g
+- Turmeric: 1/2 tsp
+- Cumin seeds: 1/2 tsp
+- Mustard seeds: 1/2 tsp
+- Garam masala: 1/2 tsp
+- Basmati rice: 100g
+- Chopped coriander: 1 tbsp
+- Cauliflower: 1 small
+- Tahini: 1 tbsp
+- Water: 1 tbsp
+- Arugula: 40g
+- Orange: 1
+- Short pasta: 150g
+- Artichoke hearts (canned): 1 can
+- Grated carrots: 3
+- Instructions: All ingredients are for two adults, with slightly larger portions for the man.
