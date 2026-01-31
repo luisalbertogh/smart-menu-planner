@@ -1,0 +1,56 @@
+# Weekly Ingredients List
+
+- Basmati rice: 120g
+- Whole wheat pasta: 120g
+- Pearl barley: 0.5 cup
+- Chicken breasts: 3 (180g man, 140g woman per meal)
+- Salmon fillet: 1 (180g man, 140g woman)
+- Sea bream fillet: 1 (160g man, 120g woman)
+- Sardines in olive oil: 1 can (120g)
+- Halloumi cheese: 180g
+- Greek yogurt: 200g
+- Labneh: 200g
+- Mixed salad greens: 2 cups
+- Zucchini: 3 small
+- Red bell pepper: 1 small
+- Carrot: 4 small
+- Potato: 2 small
+- Parsnip: 2 small
+- Eggplant: 2 small
+- Leek: 0.5
+- Red onion: 2
+- Spring onion: 1
+- Cabbage: 1 cup
+- Apple: 1 small
+- Orange: 2
+- Fennel bulb: 1 small
+- Beetroot (cooked): 2 small
+- Cucumber: 1
+- Tomato: 2
+- Chickpeas: 1 can (400g)
+- Frozen peas: 1 cup
+- Garlic: 8 cloves
+- Fresh dill: 4 tbsp
+- Fresh parsley: 5 tbsp
+- Fresh mint: 2 tbsp
+- Fresh coriander: 1 tbsp
+- Lemon: 2
+- Lemon juice: 2 tbsp
+- Olive oil: 13 tbsp
+- Balsamic vinegar: 1 tbsp
+- Apple cider vinegar: 2 tbsp
+- Honey: 2 tsp
+- Dried oregano: 2 tsp
+- Dried thyme: 1.5 tsp
+- Dried dill: 0.5 tsp
+- Ground cumin: 1 tsp
+- Ground coriander: 0.5 tsp
+- Smoked paprika: 0.5 tsp
+- Garam masala: 1 tsp
+- Turmeric: 0.5 tsp
+- Cumin seeds: 0.5 tsp
+- Sesame oil: 1 tsp
+- Sesame seeds: 1 tsp
+- Soy sauce: 1 tbsp
+- Rice vinegar: 0.5 tsp
+- Salt and pepper
