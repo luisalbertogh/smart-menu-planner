@@ -1,0 +1,61 @@
+# Weekly Ingredients List
+
+- Chickpeas (dried/canned): 200g dried or 400g canned
+- Fresh spinach: 200g
+- Onion: 7
+- Garlic cloves: 10
+- Carrot: 5
+- Celery stalk: 1
+- Canned tomatoes: 600g
+- Cumin (ground): 3 tsp
+- Smoked paprika: 1 tsp
+- Olive oil: 18 tbsp
+- Salt & pepper: to taste
+- Halloumi cheese: 150g
+- Mixed salad (lettuce, tomato, cucumber): 1 small
+- Lemon: 3
+- Cod fillets: 2 (150g each)
+- Fresh dill: 2 tbsp
+- Carrots: 5
+- Fennel bulb: 1
+- Chicken thighs: 2
+- Zucchini: 1
+- Bell pepper: 3
+- Canned tomatoes: 200g
+- Coriander (ground): 2 tsp
+- Cinnamon: 1 tsp
+- Turmeric: 1 tsp
+- Couscous: 100g
+- Fresh parsley: 4 tbsp
+- Fresh mint: 2 tbsp
+- Trout fillets: 2 (120g each)
+- Ginger: 2 thumbs
+- Spring onions: 2
+- Soy sauce: 1 tbsp
+- Rice vinegar: 1 tbsp
+- Broccoli: 1 head
+- Sesame oil: 1 tbsp
+- Sesame seeds: 1 tbsp
+- Vegetable oil: 2 tbsp
+- Lentils (dried): 150g
+- Potato: 4
+- Tomato: 4
+- Curry powder: 1 tsp
+- Plain yogurt: 200g
+- Cucumber: 2
+- Fresh coriander: 1 tbsp
+- Eggplant: 1 large
+- Ricotta cheese: 100g
+- Basil: 1 tbsp
+- Black olives: 50g
+- Red wine vinegar: 1 tbsp
+- Salmon fillets: 2 (120g each)
+- Medium potatoes: 3
+- White wine vinegar: 1 tbsp
+- Sugar: 1 tsp
+- Ground lamb: 250g
+- Parmesan cheese: 20g
+- Pasta: 160g
+- Sardines (canned): 1 can (120g)
+- Arugula: 50g
+- Balsamic vinegar: 1 tbsp
