@@ -1,0 +1,59 @@
+# Weekly Ingredients List
+
+- Chicken breast: 2 large (400g)
+- Fresh spinach: 300g
+- Onion: 6 small
+- Garlic cloves: 7
+- Ginger: 2 tsp, grated
+- Curry powder: 1 tbsp
+- Coconut milk: 200ml
+- Olive oil: 10 tbsp
+- Salt & pepper: as needed
+- Cucumber: 1/2
+- Greek yogurt: 203g
+- Fresh mint: 1 tbsp
+- Lemon: 3
+- Haddock fillets: 2 (250g)
+- Fresh dill: 2 tbsp
+- Fresh parsley: 3 tbsp
+- Dijon mustard: 1 tsp
+- Honey: 1 tsp
+- Beetroots: 2 medium
+- Basmati rice: 100g
+- Zucchini: 2 small
+- Red bell pepper: 3 small
+- Carrot: 4 small
+- Dried oregano: 2 tsp
+- Vegetable broth: 350ml
+- Tomato: 2 medium
+- Red onion: 2 small
+- Black olives: 40g
+- Egg: 1
+- Feta cheese: 100g
+- Rye bread: 2 slices
+- Butter: 20g
+- White fish fillets (cod/haddock): 2 (250g)
+- Potato: 1 small
+- Parsnip: 1 small
+- Leek: 1/2
+- Fish or vegetable stock: 400ml
+- Bok choy: 2 heads
+- Soy sauce: 1 tbsp
+- Sesame oil: 1 tsp
+- Rice vinegar: 1 tbsp
+- Sesame seeds: 1 tsp
+- Paneer cheese: 150g
+- Yellow bell pepper: 1 small
+- Garam masala: 1 tsp
+- Cabbage: 1/4 small
+- Apple: 1 small
+- Lamb leg: 150g
+- Couscous: 80g
+- Labneh: 100g
+- Cinnamon: 1/2 tsp
+- Ground cumin: 2 tsp
+- Ground coriander: 2 tsp
+- Tomato: 2 medium
+- Fresh parsley: 2 tbsp
+- Labneh: 100g
+- Olive oil (for labneh): 1 tbsp
