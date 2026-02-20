@@ -1,0 +1,55 @@
+# Weekly Ingredients List
+
+- Olive oil: 13 tbsp
+- Onion: 5
+- Carrot: 6
+- Celery: 2 stalks
+- Potato: 5
+- Zucchini: 2
+- Green beans: 100g
+- Canned tomatoes: 400g
+- Cannellini beans: 200g
+- Vegetable broth: 1000ml
+- Garlic: 10 cloves
+- Pecorino cheese: 140g
+- Salt & pepper: to taste
+- Fresh basil: handful
+- Mackerel fillets: 3.5
+- Lemon: 2
+- Watercress: 80g
+- Radish: 6
+- Brown lentils: 220g
+- Basmati rice: 140g
+- Spinach: 120g
+- Cumin: 1 tsp
+- Feta cheese: 100g
+- Kalamata olives: 10
+- Chicken breast: 320g
+- Greek yogurt: 180g
+- Tandoori spice mix: 2 tsp
+- Cauliflower: 200g
+- Fresh coriander: handful
+- Penne pasta: 140g
+- Eggplant: 1
+- Bell pepper: 1
+- Cherry tomatoes: 100g
+- Fresh dill: 1 tbsp
+- Fresh mint: 2 tbsp + handful
+- Sea bass fillets: 3.5
+- Ginger: 1 tbsp
+- Soy sauce: 2 tbsp
+- Spring onion: 2
+- Cucumber: 2
+- Rice vinegar: 2 tbsp
+- Sugar: 1 tsp
+- White fish fillets: 3.5
+- Parsnip: 1
+- Leek: 1
+- Cream: 80ml
+- Butter: 30g
+- Rye bread: 3 slices
+- Lamb chops: 3.5
+- Tomato: 5
+- Chickpeas: 220g
+- Curry powder: 1 tbsp
+- Labneh: 100g
