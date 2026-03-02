@@ -1,0 +1,52 @@
+# Weekly Ingredients List
+
+- Bell peppers: 2 large
+- Cooked rice: 120g
+- Chickpeas (cooked): 200g
+- Onion: 7 small
+- Tomato: 5
+- Feta cheese: 100g
+- Black olives: 40g
+- Olive oil: 12 tbsp
+- Dried oregano: 1 tsp
+- Salmon fillet: 350g
+- Fresh dill: 2 tbsp
+- Brussels sprouts: 200g
+- Lemon wedges: 2
+- Basmati rice: 100g
+- Lentils: 80g
+- Carrot: 4
+- Bell pepper: 2
+- Garam masala: 2 tsp
+- Cucumber: 1
+- Plain yogurt: 120g
+- Fresh mint: 2 tbsp
+- Chicken breast: 280g
+- Sumac: 1 tsp
+- Red onion: 1/2
+- Parsley: 1 bunch
+- Soy sauce: 2 tbsp
+- Sesame oil: 1 tbsp
+- Shrimp: 360g
+- Broccoli: 1 small
+- Edamame beans: 120g
+- Garlic: 3 cloves
+- Eggplant: 1 large
+- Mixed greens: 80g
+- Lemon juice: 1 tbsp
+- White fish fillet: 450g
+- Potatoes: 200g
+- Leek: 1 small
+- Milk: 100ml
+- Cheese: 40g
+- Butter: 1 tbsp
+- Pickled beetroot: 120g
+- Paneer: 280g
+- Spinach: 150g
+- Cabbage: 200g
+- Apple cider vinegar: 1 tbsp
+- Lamb: 350g
+- Zucchini: 1
+- Paprika: 1 tsp
+- Labneh: 120g
+- Salt & pepper: to taste
