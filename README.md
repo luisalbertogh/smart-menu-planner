@@ -1,7 +1,7 @@
 # :calendar: smart-menu-planner
 
 [![Agentic workflow](https://img.shields.io/badge/github-Agentic_workflow-blue?logo=github)](https://github.com/luisalbertogh/smart-menu-planner)
-![GitHub branch check runs](https://img.shields.io/github/check-runs/luisalbertogh/smart-menu-planner/main)
+![Workflow status](https://github.com/luisalbertogh/smart-menu-planner/actions/workflows/chef.yml/badge.svg)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Menu planner with Copilot and custom agents :robot:
