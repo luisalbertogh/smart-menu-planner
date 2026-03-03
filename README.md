@@ -1,5 +1,8 @@
 # :calendar: smart-menu-planner
 
+[![Agentic workflow](https://img.shields.io/badge/github-Agentic_workflow-blue?logo=github)](https://github.com/luisalbertogh/smart-menu-planner)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Menu planner with Copilot and custom agents :robot:
 
 ## :eyes: Overview
