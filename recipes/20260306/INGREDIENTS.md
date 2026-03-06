@@ -1,0 +1,65 @@
+# Weekly Ingredients List
+
+- Sea bream: 400g
+- Lemon: 2
+- Olive oil: 13 tbsp
+- Garlic: 4 cloves
+- Fresh thyme: 1 sprig
+- Cooked chickpeas: 300g
+- Fresh spinach: 300g
+- Red onion: 1.5
+- Red wine vinegar: 1 tbsp
+- Salt & pepper: to taste
+- Pollock fillets: 2 (150g each)
+- Fresh dill: 2 tbsp
+- Fresh parsley: 2 tbsp
+- Breadcrumbs: 1 tbsp
+- Carrots: 7
+- Parsnip: 1
+- Beetroot: 1.5
+- Chicken breast: 200g
+- Red bell pepper: 1
+- Broccoli: 1 small head
+- Soy sauce: 2 tbsp
+- Sesame oil: 2 tsp
+- Jasmine rice: 100g
+- Vegetable oil: 4 tbsp
+- Mackerel fillets: 2 (150g each)
+- Ground cumin: 3 tsp
+- Ground coriander: 1 tsp
+- Paprika: 0.5 tsp
+- Fennel bulb: 1
+- Orange: 1
+- Lemon juice: 2 tbsp
+- Red lentils: 100g
+- Potato: 1 small
+- Tomato: 4
+- Onion: 2
+- Ground turmeric: 1 tsp
+- Greek yogurt: 100g
+- Cucumber: 1.5
+- Fresh mint: 2 tbsp
+- Zucchinis: 2
+- Ricotta cheese: 50g
+- Pine nuts: 1 tbsp
+- Tomatoes: 4
+- Fresh basil: 1 tbsp
+- Balsamic vinegar: 1 tsp
+- Salmon fillet: 200g
+- Pearl barley: 80g
+- Leek: 1
+- Celery stalk: 1
+- Vegetable stock: 500ml
+- Cabbage: 0.25
+- Apple cider vinegar: 1 tbsp
+- Sugar: 1 tsp
+- Cod fillets: 2 (120g each)
+- Ginger: 1 thumb
+- Spring onion: 1
+- Sesame seeds: 1 tsp
+- Chicken thigh: 200g
+- Ground cinnamon: 1 tsp
+- Chicken stock: 200ml
+- Fresh parsley: 2 tbsp
+
+(Quantities are for two adults, with slightly larger portions for the man.)
