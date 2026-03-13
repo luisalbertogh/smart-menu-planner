@@ -1,0 +1,78 @@
+# Weekly Ingredients List
+
+- Chickpeas: 400g
+- Fresh spinach: 400g
+- Onion: 7 small/medium
+- Garlic: 8 cloves
+- Carrot: 7
+- Celery: 1 stalk
+- Canned tomatoes: 400g
+- Smoked paprika: 1 tsp
+- Cumin: 4 tsp
+- Olive oil: 9 tbsp
+- Salt & pepper: to taste
+- Halloumi cheese: 150g
+- Cucumber: 3 small
+- Red onion: 2 small
+- Lemon: 3
+- Fresh parsley: 4 tbsp
+- Cod fillets: 2 (150g each)
+- Bay leaf: 1
+- Black peppercorns: 1 tsp
+- Leeks: 2
+- Potatoes: 4 medium
+- Butter: 2 tbsp
+- Dijon mustard: 1 tbsp
+- Crème fraîche: 2 tbsp
+- Dill: 2 tbsp
+- Chicken breast: 250g
+- Red bell pepper: 1
+- Zucchini: 2 small
+- Soy sauce: 3 tbsp
+- Sesame oil: 2 tsp
+- Ginger: 2 tsp/thumb
+- Broccoli: 200g
+- Sesame seeds: 2 tbsp
+- Eggplants: 2 medium
+- Ground coriander: 2 tsp
+- Cinnamon: 1 tsp
+- Greek yogurt: 150g
+- Fresh mint: 1 tbsp
+- Red lentils: 150g
+- Potato: 1 small
+- Vegetable stock: 900ml
+- Vegetable oil: 2 tbsp
+- Tomato: 1
+- Plain yogurt: 100g
+- Fresh coriander: 1 tbsp
+- Sardines: 4
+- Fennel bulb: 1
+- Orange: 1
+- Pearl barley: 150g
+- Parsnip: 1
+- Turnip: 1
+- Parmesan: 2 tbsp
+- Cooked beetroots: 2
+- Vinegar: 1 tbsp
+- Sea bass fillets: 2 (120g each)
+- Spring onions: 2
+- Rice vinegar: 1 tbsp
+- Chicken thigh: 250g
+- Courgette: 1
+- Chicken stock: 200ml
+- Crème fraîche: 2 tbsp
+- Dill: 2 tbsp
+- Fresh dill: 1 tbsp
+- Fresh parsley: 4 tbsp
+- Fresh mint: 1 tbsp
+- Fresh coriander: 1 tbsp
+- Fresh spinach: 400g
+- Carrot: 7
+- Lemon juice: 2 tbsp
+- Labneh: 0 (not used this week)
+- Rye bread: 0 (not used this week)
+- Feta: 0 (not used this week)
+- Paneer: 0 (not used this week)
+- Lamb: 0 (not used this week)
+- Veal: 0 (not used this week)
+- Pork: 0 (not used this week)
