@@ -1,0 +1,48 @@
+# Weekly Ingredients List
+
+- Sea bass: 400g
+- Olive oil: 8 tbsp
+- Lemon: 2
+- Salt & pepper: to taste
+- Greek feta cheese: 120g
+- Tomatoes: 6
+- Red onion: 1
+- Fresh oregano: 1 tbsp
+- Cod fillet: 250g
+- Cauliflower: 300g
+- Watercress: 50g
+- Radishes: 4
+- Jasmine rice: 120g
+- Carrot: 3
+- Bell pepper: 1
+- Broccoli: 1/2 (150g)
+- Soy sauce: 2 tbsp
+- Sesame oil: 2 tbsp
+- Edamame beans: 100g
+- Lamb mince: 200g
+- Cumin: 2 tsp
+- Coriander: 2 tsp
+- Paprika: 1/2 tsp
+- Cucumber: 2
+- Fresh mint: 2 tbsp
+- Yogurt: 3 tbsp + 120g
+- Chickpeas (cooked): 150g
+- Spinach: 200g
+- Onion: 3
+- Garlic clove: 3
+- Curry powder: 1 tsp
+- Fresh herbs (mint, coriander): 2 tbsp
+- Eggplant: 1
+- Ricotta cheese: 100g
+- Fresh basil: 2 tbsp
+- Salmon fillet: 250g
+- Potatoes: 2
+- Beetroot (cooked): 100g
+- Vinegar: 1 tbsp
+- Dill: 1 tbsp
+- Pollock fillet: 200g
+- Sesame seeds: 1 tbsp
+- Bok choy: 1/2 (100g)
+- Chicken breast: 200g
+- Zucchini: 1
+- Labneh: 120g
