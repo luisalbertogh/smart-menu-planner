@@ -1,0 +1,53 @@
+# Weekly Ingredients List
+
+- Orzo pasta: 120g
+- Zucchini: 1 small
+- Eggplant: 2 large
+- Red bell pepper: 2
+- Olive oil: 20 tbsp
+- Feta cheese: 160g
+- Kalamata olives: 40g
+- Lemon: 4
+- Garlic: 7 cloves
+- Salt & pepper: to taste
+- Haddock fillets: 2 (150g each)
+- Fresh dill: 2 tbsp
+- Fresh parsley: 4 tbsp
+- Brussels sprouts: 200g
+- Chickpeas: 1 can (400g)
+- Fresh spinach: 150g
+- Onion: 5
+- Ginger: 2 tbsp
+- Curry powder: 2 tbsp
+- Coconut milk: 200ml
+- Cucumber: 1
+- Greek yogurt: 150g
+- Fresh mint: 2 tbsp
+- Chicken breasts: 2 (180g each)
+- Ground cumin: 2 tsp
+- Paprika: 2 tsp
+- Tomatoes: 3
+- Red onion: 2
+- Shrimp: 200g
+- Broccoli: 1 head
+- Soy sauce: 2 tbsp
+- Sesame oil: 1 tbsp
+- Edamame beans: 100g
+- Mixed salad greens: 100g
+- White fish fillets: 2 (150g each)
+- Potatoes: 2 medium
+- Milk: 200ml
+- Butter: 1 tbsp
+- Cooked beetroots: 2
+- Vinegar: 2 tbsp
+- Paneer cheese: 200g
+- Yellow bell pepper: 1
+- Cabbage: 200g
+- Apple cider vinegar: 1 tbsp
+- Lamb shoulder: 250g
+- Carrot: 1
+- Celery: 1 stalk
+- Vegetable stock: 400ml
+- Labneh: 100g
+
+(Quantities are for two adults, one man and one woman, with slightly larger portions for the man.)
