@@ -1,0 +1,67 @@
+# Weekly Ingredients List
+
+- Bell peppers: 2 large
+- Brown rice: 80g
+- Lentils (red): 100g
+- Lentils (cooked): 80g
+- Onion: 5 small
+- Garlic: 5 cloves
+- Tomato: 5
+- Feta cheese: 40g
+- Olive oil: 18 tbsp
+- Dried oregano: 1 tsp
+- Salt & pepper: to taste
+- Greek yogurt: 150g
+- Fresh dill: 2 tbsp
+- Fresh mint: 2 tbsp
+- Parsley: 5 tbsp
+- Cucumber: 2
+- Lemon juice: 2
+- Trout fillets: 2 (150g each)
+- Lemon: 2
+- Fresh dill: 2 tbsp
+- Fennel bulb: 2
+- Carrots: 6
+- Thyme: 1 tsp
+- Rice (cooked): 200g
+- Peas: 1/2 cup
+- Eggs: 2
+- Green onions: 3
+- Soy sauce: 3 tbsp
+- Sesame oil: 2 tbsp
+- Ginger: 3 tsp
+- Bok choy: 4 heads
+- Sesame seeds: 2 tbsp
+- Chicken breasts: 2 (180g each)
+- Ground cumin: 2 tsp
+- Ground coriander: 1 tsp
+- Paprika: 1 tsp
+- Turmeric: 1 tsp
+- Tomatoes: 5
+- Red onion: 2
+- Carrot: 6
+- Plain yogurt: 100g
+- Garam masala: 1/2 tsp
+- Spinach: 160g
+- Mackerel fillets: 2 (150g each)
+- Orange: 1
+- White wine vinegar: 1 tsp
+- Salmon fillets: 2 (150g each)
+- Pearl barley: 80g
+- Celery: 1 stalk
+- Dill: 2 tbsp
+- Red cabbage: 100g
+- Apple cider vinegar: 1 tbsp
+- Sugar: 1 tsp
+- Tofu (firm): 200g
+- Rice vinegar: 1 tbsp
+- Honey: 1 tsp
+- Green onion: 1
+- Asian greens: 100g
+- Chicken thighs: 2 (180g each)
+- Couscous: 80g
+- Zucchini: 1
+- Labneh: 100g
+- Za'atar: 1 tsp (optional)
+- Cinnamon: 1/2 tsp
+- Water: as needed
