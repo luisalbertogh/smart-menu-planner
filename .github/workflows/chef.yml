@@ -4,8 +4,8 @@ name: Chef Workflow
 
 on:
   # Schedule workflow to run every Friday at 12:00 UTC
-  schedule:
-    - cron: '0 12 * * FRI'
+  # schedule:
+  #  - cron: '0 12 * * FRI'
   
   # Manual workflow
   workflow_dispatch:
